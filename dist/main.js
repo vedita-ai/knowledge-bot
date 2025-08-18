@@ -6469,7 +6469,7 @@ const Iu = { class: "chat-widget" }, Mu = {
   viewBox: "0 0 24 24",
   stroke: "currentColor"
 }, uf = /* @__PURE__ */ oa({
-  __name: "ChatWidgetCopy",
+  __name: "ChatWidget",
   props: {
     botId: {},
     apiKey: {}
@@ -6918,7 +6918,7 @@ const Iu = { class: "chat-widget" }, Mu = {
   for (const [r, i] of t)
     n[r] = i;
   return n;
-}, df = /* @__PURE__ */ ff(uf, [["__scopeId", "data-v-c31d1180"]]);
+}, df = /* @__PURE__ */ ff(uf, [["__scopeId", "data-v-76ffd3aa"]]);
 function co() {
   const e = document.getElementById("chat-widget-container");
   if (!e) {
