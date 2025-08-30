@@ -7012,7 +7012,7 @@ const Iu = { class: "pskbdllm-chat-widget" }, Mu = {
             T[15] || (T[15] = A("div", { class: "pskbdllm-text-center pskbdllm-mt-2 pskbdllm-text-xs pskbdllm-text-gray-400" }, [
               zs(" Powered by "),
               A("a", {
-                href: "https://microbeings.com/",
+                href: "https://www.microbeings.com/",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 class: "pskbdllm-watermark-link"
@@ -7030,7 +7030,7 @@ const Iu = { class: "pskbdllm-chat-widget" }, Mu = {
   for (const [s, r] of t)
     n[s] = r;
   return n;
-}, pf = /* @__PURE__ */ df(ff, [["__scopeId", "data-v-11ea3c47"]]);
+}, pf = /* @__PURE__ */ df(ff, [["__scopeId", "data-v-4feac2cd"]]);
 function di() {
   const e = document.getElementById("chat-widget-container");
   if (!e) {
